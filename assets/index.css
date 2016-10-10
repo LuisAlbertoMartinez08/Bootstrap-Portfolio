@@ -1,0 +1,57 @@
+.jumbotron {
+	text-align: center;
+	background: none;
+	border: none;
+}
+
+
+/*********custom sticky footers for each page************/
+.wrap-portfolio {
+  min-height: calc(95vh - 89px);
+}
+
+.wrap-index {
+  min-height: calc(102vh - 89px);
+}
+
+.wrap-contact {
+  min-height: calc(93vh - 89px);
+}
+
+
+/**********All text to be centered***********/
+.end-text {
+	text-align: center;
+}
+
+
+/********my profile pic was to big*************/
+.luis{
+  max-width: 125px;
+  display: block;
+    margin: auto;
+}
+
+
+/*********text on pictures on portfolio************/
+.pic-info {
+    text-align: center;
+    font-size: 11px;
+    position: relative;
+    bottom: 20px;
+}
+
+
+/**********Footer Logo icons***********/
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+
+
+
+
+
+
